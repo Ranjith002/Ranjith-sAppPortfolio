@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ranjith\'s App Portfolio</string>
+    <!-- Header Text for the title of this app -->
+    <string name="Title">Ranjith\'s Nanodegree Apps!</string>
+    <!-- Header Text for the name of the first app -->
+    <string name="App1">Popular Movies</string>
+    <!-- Header Text for the name of the second app -->
+    <string name="App2">Stock Hawk</string>
+    <!-- Header Text for the name of the third app -->
+    <string name="App3">Build it bigger</string>
+    <!-- Header Text for the name of the fourth app -->
+    <string name="App4">Make your app material</string>
+    <!-- Header Text for the name of the fifth app -->
+    <string name="App5">Go Ubiquitous</string>
+    <!-- Header Text for the name of the final app -->
+    <string name="App6">Capstone</string>
+</resources>
